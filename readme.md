@@ -65,8 +65,8 @@
 ### Backend Kurulumu
 1. Depoyu klonlayın:
     ```sh
-    git clone https://github.com/tokayOzgur/Rumorify.git
-    cd Rumorify/ws
+    git clone https://github.com/tokayOzgur/sabis-mezunlar.git
+    cd sabis-mezunlar/ws
     ```
 
 2. Projeyi derleyin:
