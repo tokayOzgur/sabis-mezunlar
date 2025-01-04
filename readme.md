@@ -159,6 +159,6 @@ MIT Lisansı altında dağıtılmaktadır. Daha fazla bilgi için `LICENSE` dosy
 
 ## İletişim
 Özgür Tokay - [ozytky@gmail.com](mailto:ozytky@gmail.com)
-Saniye Yurt - [saniye.yurt@example.com](mailto:saniyeyurttt@gmail.com)
+Saniye Yurt - [saniyeyurttt@gmail.com](mailto:saniyeyurttt@gmail.com)
 
-Proje Bağlantısı: [https://github.com/tokayOzgur/Mezunlar-Platformu](https://github.com/tokayOzgur/Mezunlar-Platformu)
+Proje Bağlantısı: [https://github.com/tokayOzgur/sabis-mezunlar](https://github.com/tokayOzgur/sabis-mezunlar)
