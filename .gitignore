@@ -1,0 +1,16 @@
+
+
+### VS Code ###
+.vscode/
+
+
+## ws ##
+ws/target/*
+ws/.env
+ws/.env
+/data/
+/uploads/
+/logs/
+
+## frontend ##
+frontend/node_modules/*
