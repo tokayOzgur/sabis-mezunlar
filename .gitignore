@@ -1,5 +1,6 @@
 ## common ##
-
+data/*
+logs/*
 
 ### VS Code ###
 .vscode/
