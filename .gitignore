@@ -1,3 +1,4 @@
+## common ##
 
 
 ### VS Code ###
@@ -6,7 +7,6 @@
 
 ## ws ##
 ws/target/*
-ws/.env
 ws/.env
 /data/
 /uploads/
